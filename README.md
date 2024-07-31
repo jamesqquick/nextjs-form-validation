@@ -7,7 +7,9 @@ This is a [Next.js](https://nextjs.org/) project to demo multiple ways to handle
 - `react-hook-form`
 
 Watch the full tutorial 👇
-[![James Quick I Was Wrong](https://github.com/user-attachments/assets/d7b52b76-9d20-44ad-a420-6fb8c0a43d69)](https://youtu.be/TSW0Ybxs_bE)
+
+[![I Was Wrong (1)](https://github.com/user-attachments/assets/d684830d-4496-42df-9eb5-9ac60d09d2f9)
+](https://youtu.be/TSW0Ybxs_bE)
 
 ## Getting Started
 
